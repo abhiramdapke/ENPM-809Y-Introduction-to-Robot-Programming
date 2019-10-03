@@ -52,6 +52,7 @@ This is a C++ and ROS based course.
 10. Display the size ofcolor_vec_2d
 
 11. Read and displaycolor_vec_2din the console. The output should be:
+
    &nbsp; &nbsp; &nbsp; &nbsp; blue    white   green
    
    &nbsp; &nbsp; &nbsp; &nbsp; white   green   white
