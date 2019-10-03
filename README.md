@@ -6,7 +6,7 @@ This is a C++ and ROS based course.
 
 2. Initialize the array to have the following elements
 
-  ◦First row:blue,white
+  &nbsp; &nbsp; ◦First row:blue,white
 
   ◦Second row:green,white
 
