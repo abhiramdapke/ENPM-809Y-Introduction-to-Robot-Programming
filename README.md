@@ -34,7 +34,9 @@ This is a C++ and ROS based course.
   Output should be:
 
    &nbsp; &nbsp; &nbsp; &nbsp; Vector 1: blue white green
+   
    &nbsp; &nbsp; &nbsp; &nbsp; Vector 2: white green white
+   
    &nbsp; &nbsp; &nbsp; &nbsp; Vector 3: green blue white
 
 8. Create a 2D vector (3 rows and 3 columns) of std::stringnamedcolor_vec_2d.
@@ -51,5 +53,7 @@ This is a C++ and ROS based course.
 
 11. Read and displaycolor_vec_2din the console. The output should be:
    &nbsp; &nbsp; &nbsp; &nbsp; blue    white   green
+   
    &nbsp; &nbsp; &nbsp; &nbsp; white   green   white
+   
    &nbsp; &nbsp; &nbsp; &nbsp; green   blue    white
