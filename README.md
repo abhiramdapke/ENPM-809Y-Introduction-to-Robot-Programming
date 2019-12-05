@@ -1,3 +1,3 @@
-# ENPM-809Y-Introduction-to-Robot-Programming
+#Introduction-to-Robot-Programming
 This is a C++ and ROS based course. All the assignments are done in C++.
 
