@@ -58,9 +58,9 @@ Steps:
 2) Open the main.cpp file under the src folder inside the workspace.
 3) RUn the main.cpp file and the output will be shown in the output terminal.
 
-## Final Project
+# Final Project
 
-# Robot navigation in a Maze to the center of the Maze
+## Robot navigation in a Maze to the center of the Maze
 
 Problem statement is in the Final Project folder
 
